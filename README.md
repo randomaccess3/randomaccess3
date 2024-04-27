@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on too much stuff; ThisWeekin4n6, ThinkDFIR, CyberCX, SANS FOR308, SANS FOR500, SANS FOR528
+- 🔭 I’m currently working on too much stuff; ThisWeekin4n6, ThinkDFIR, CyberCX, SANS FOR500, SANS FOR528
 - 🌱 I’m currently learning ransomware TTPs and NTFS file system stuff!
 - 💬 Ask me about DFIR!
 - 📫 How to reach me: @phillmoore on Twitter
